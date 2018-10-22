@@ -19,7 +19,7 @@ public class Dates {
  // Now format the date
  String date1= dateFormat.format(date);
  
- // Print the Date
+ // Print the Date,,
  System.out.println(date1);
  
  }
